@@ -1,0 +1,17 @@
+{
+  "home": {
+    "listen": "Écoutez de la bonne musique !"
+  },
+  "song": {
+    "comment_count": "No commentaires | 1 commentaire | {count} commentaires"
+  },
+  "register": {
+    "accept": "J'accepte {0} de Music",
+    "tos": "les conditions d'utilisation"
+  },
+  "manage": {
+    "my_songs": "Mes chansons",
+    "upload": "Télécharger",
+    "drop_files": "déposez vos fichiers ici"
+  }
+}
